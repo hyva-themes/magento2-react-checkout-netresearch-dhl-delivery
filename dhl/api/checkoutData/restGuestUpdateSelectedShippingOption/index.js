@@ -1,0 +1,3 @@
+import restGuestUpdateSelectedShippingOption from './restGuestUpdateSelectedShippingOption';
+
+export default restGuestUpdateSelectedShippingOption;
