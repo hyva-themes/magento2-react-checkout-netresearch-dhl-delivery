@@ -1,0 +1,3 @@
+import restMineUpdateSelectedShippingOption from './restMineUpdateSelectedShippingOption';
+
+export default restMineUpdateSelectedShippingOption;
